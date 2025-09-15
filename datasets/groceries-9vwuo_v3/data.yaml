@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 58
+names: ['-', 'Apple', 'Asparagus', 'Avocado', 'Banana', 'Beans', 'Blackberries', 'Blueberries', 'Book', 'Broccoli', 'Brussel Sprouts', 'Butter', 'Cabbage', 'Cantaloupe', 'Carrots', 'Cauliflower', 'Cerealbox', 'Cheese', 'Clementine', 'Coffee', 'Corn', 'Cucumber', 'Detergent', 'Drinks', 'Egg', 'Eggplant', 'Eggs', 'Galia', 'Grapes', 'Honeydew', 'Juice', 'Lettuce', 'Meat', 'Milk', 'Mushrooms', 'Nectarine', 'Orange', 'Oranges', 'Pineapple', 'Plum', 'Pomegranate', 'Raspberries', 'Salad', 'Sauce', 'Spinach', 'Squash', 'Strawberries', 'Strawberry', 'Tofu', 'Tomatoes', 'Watermelon', 'Yogurt', 'Zucchini', 'beverage', 'food-box', 'fruit', 'utility-box', 'vegetable']
+
+roboflow:
+  workspace: identvintern
+  project: groceries-9vwuo
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/identvintern/groceries-9vwuo/dataset/3

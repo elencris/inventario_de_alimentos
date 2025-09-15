@@ -1,0 +1,18 @@
+names:
+- Drinks
+- Egg
+- Juice
+- Milk
+- beverage
+- food-box
+- fruit
+nc: 7
+path: D:\2025.2\IC\inventario_de_alimentos\datasets
+test:
+- itens-de-dispensa-8pudf_v4\test\images
+train:
+- groceries-9vwuo_v3\train\images
+- itens-de-dispensa-8pudf_v4\train\images
+val:
+- groceries-9vwuo_v3\valid\images
+- itens-de-dispensa-8pudf_v4\valid\images
