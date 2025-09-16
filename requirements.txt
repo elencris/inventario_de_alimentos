@@ -3,3 +3,4 @@ roboflow
 pyyaml
 matplotlib
 ipython
+kivymd
