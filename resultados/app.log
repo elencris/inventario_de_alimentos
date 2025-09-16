@@ -1,0 +1,23 @@
+2025-09-15 18:36:47,904 - WARNING - Dataset já existente: D:\2025.2\IC\inventario_de_alimentos\datasets\groceries-9vwuo_v3
+2025-09-15 18:36:47,906 - WARNING - Dataset já existente: D:\2025.2\IC\inventario_de_alimentos\datasets\itens-de-dispensa-8pudf_v4
+2025-09-15 18:36:47,924 - INFO - Arquivo data.yaml criado em: D:\2025.2\IC\inventario_de_alimentos\datasets\data.yaml
+2025-09-15 18:36:47,926 - INFO - Conjuntos incluídos:
+2025-09-15 18:36:47,928 - INFO - Treino: ['groceries-9vwuo_v3\\train\\images', 'itens-de-dispensa-8pudf_v4\\train\\images']
+2025-09-15 18:36:47,929 - INFO - Validação: ['groceries-9vwuo_v3\\valid\\images', 'itens-de-dispensa-8pudf_v4\\valid\\images']
+2025-09-15 18:36:47,929 - INFO - Teste: ['itens-de-dispensa-8pudf_v4\\test\\images']
+2025-09-15 18:36:47,930 - INFO - Classes: ['Drinks', 'Egg', 'Juice', 'Milk', 'beverage', 'food-box', 'fruit']
+2025-09-15 18:36:49,014 - INFO - Total de parâmetros: 2,624,080
+2025-09-15 18:36:49,016 - INFO - Parâmetros treináveis: 13,056
+2025-09-15 19:43:09,764 - INFO - Após treino - Total de parâmetros: 2,591,205
+2025-09-15 19:43:09,764 - INFO - Após treino - Parâmetros treináveis: 0
+2025-09-15 19:43:09,826 - INFO - Modelo salvo em: D:\2025.2\IC\inventario_de_alimentos\resultados\modelo_treinado.pt
+2025-09-15 19:43:13,976 - INFO - Métricas e arquitetura salvas em: D:\2025.2\IC\inventario_de_alimentos\resultados
+2025-09-15 19:43:13,979 - INFO - Iniciando avaliação do modelo no conjunto de teste.
+2025-09-15 19:43:19,618 - INFO - Métricas salvas em: D:\2025.2\IC\inventario_de_alimentos\resultados\metricas_teste.json
+2025-09-15 19:43:19,618 - INFO - Métricas de avaliação no conjunto de teste:
+2025-09-15 19:43:19,618 - INFO - metrics/precision(B): 0.24281060839581328
+2025-09-15 19:43:19,619 - INFO - metrics/recall(B): 0.25595238095238093
+2025-09-15 19:43:19,619 - INFO - metrics/mAP50(B): 0.1914584770446444
+2025-09-15 19:43:19,619 - INFO - metrics/mAP50-95(B): 0.07977952942412904
+2025-09-15 19:43:19,619 - INFO - fitness: 0.07977952942412904
+2025-09-15 19:43:19,619 - INFO - Avaliação concluída.
