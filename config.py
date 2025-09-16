@@ -7,7 +7,7 @@ modelos e especificações dos datasets.
 import os
 
 # API Roboflow
-API_KEY = "ZWwm2v5dktzS4yL27POm"
+API_KEY = 'API_KEY para o Dataset'
 
 # Modelo YOLO
 YOLO_MODELO = "yolo11n"
