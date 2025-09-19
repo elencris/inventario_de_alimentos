@@ -38,13 +38,16 @@ inventario_de_alimentos/
 └── runs/               # Resultados de execuções/testes
 ```
 
+## Apresentação sobre o projeto
+
+[Apresentação em PDF](https://drive.google.com/file/d/1bHjLoTAZN6plcOSWAXALusHv1ps2Cmp_/view?usp=sharing)
+
 ## Clone o repositório
 
 ```bash
 git clone https://github.com/elencris/inventario_de_alimentos.git
 cd inventario_de_alimentos
 ```
-
 
 ## Crie e ative o ambiente virtual
 
@@ -165,6 +168,7 @@ Projeto desenvolvido por Christhian Costa Lima (202206840030) e Elen Cristina Re
 
 ---
 *Atualizado em: 15/09/2025*
+
 
 
 
