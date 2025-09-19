@@ -38,7 +38,15 @@ inventario_de_alimentos/
 └── runs/               # Resultados de execuções/testes
 ```
 
-### Crie e ative o ambiente virtual
+## Clone o repositório
+
+```bash
+git clone https://github.com/elencris/inventario_de_alimentos.git
+cd inventario_de_alimentos
+```
+
+
+## Crie e ative o ambiente virtual
 
 ```bash
 python -m venv ml-env
@@ -157,5 +165,6 @@ Projeto desenvolvido por Christhian Costa Lima (202206840030) e Elen Cristina Re
 
 ---
 *Atualizado em: 15/09/2025*
+
 
 
