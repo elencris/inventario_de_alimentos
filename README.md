@@ -95,8 +95,8 @@ Principais pacotes:
 
 Os datasets são baixados automaticamente do Roboflow, conforme especificado em `config.py`:
 
-- `groceries-9vwuo_v3`
-- `itens-de-dispensa-8pudf_v4`
+- [groceries-9vwuo_v3](https://universe.roboflow.com/identvintern/groceries-9vwuo).
+- [itens-de-dispensa-8pudf_v4](https://app.roboflow.com/ic-rfkuy/itens-de-dispensa-8pudf/4).
 
 O arquivo `datasets/data.yaml` consolidado contém:
 
@@ -165,6 +165,7 @@ Projeto desenvolvido por Christhian Costa Lima (202206840030) e Elen Cristina Re
 
 ---
 *Atualizado em: 15/09/2025*
+
 
 
 
